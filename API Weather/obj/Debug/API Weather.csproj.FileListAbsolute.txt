@@ -1,0 +1,14 @@
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\bin\Debug\API Weather.exe.config
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\bin\Debug\API Weather.exe
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\bin\Debug\API Weather.pdb
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\obj\Debug\API Weather.csproj.AssemblyReference.cache
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\obj\Debug\API Weather.csproj.SuggestedBindingRedirects.cache
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\obj\Debug\API_Weather.Properties.Resources.resources
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\obj\Debug\API Weather.csproj.GenerateResource.cache
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\obj\Debug\API Weather.csproj.CoreCompileInputs.cache
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\obj\Debug\API Weather.csproj.CopyComplete
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\obj\Debug\API Weather.exe
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\obj\Debug\API Weather.pdb
+C:\Users\arya\Documents\Kuliah\PBO\Winform C#\API Weather\obj\Debug\API_Weather.WeatherInfo.resources
